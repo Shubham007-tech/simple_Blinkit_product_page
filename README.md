@@ -1,5 +1,5 @@
 # simple_Blinkit_product_page
-just a clone page of Blinkit.in
+just a clone of Product page of Blinkit.in
 
 tech stack used - Mongodb , Html , css , javascript
 
